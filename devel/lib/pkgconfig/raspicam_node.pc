@@ -1,0 +1,8 @@
+prefix=/home/mowz/camera/devel
+
+Name: raspicam_node
+Description: Description of raspicam_node
+Version: 1.0.1
+Cflags: -I/home/mowz/camera/devel/include -I/home/mowz/camera/src/raspicam_node/include
+Libs: -L${prefix}/lib 
+Requires: 

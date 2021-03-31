@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="camera" type="camera.py" name="camera" launch-prefix="sudo" output="screen" />
+</launch>   

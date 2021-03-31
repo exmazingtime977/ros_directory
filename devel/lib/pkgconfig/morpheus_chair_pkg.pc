@@ -1,0 +1,8 @@
+prefix=/home/mowz/camera/devel
+
+Name: morpheus_chair_pkg
+Description: Description of morpheus_chair_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lmorpheus_chair_pkg
+Requires: geometry_msgs rospy
